@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 
-=======
-HI! MAN!!!
->>>>>>> parent of 802b67d (Revert "Update Hello world.txt")
