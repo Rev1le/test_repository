@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-HI! wgwgwgwgwgwgwgw
-=======
-HI!
->>>>>>> parent of 58fd9a1 (Update Hello world.txt)
+HI! MAN!!!
